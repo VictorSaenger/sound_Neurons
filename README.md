@@ -22,7 +22,7 @@ Files included:
     1.sound_Neurons code.
     2.json file with parameters.
     3.audio file (Short version of Claire de Lune only).
-    4.Manual beat tagging for neurons to appear at specific points.
-    5.Manual Chord Tagging to transform chords into color code.
+    4.Manual Beat tagging for neurons to appear at specific points.
+    5.Manual Chord tagging to transform chords into color code.
 
 Please credit this work if you decide to use it.
