@@ -5,9 +5,11 @@ Neuron growth and branching is based on the streamed amplitude and music tone.
 To use it, simply run this code on Processing framework. Needs Sound package
 to run.
 
-Greatly inspired by work by Asher Salomon (http://www.ashersalomon.com/)
 Designed and coded by Victor M. Saenger, 2019.
 saenger.v at gmail.com
+Greatly inspired by work by Asher Salomon (http://www.ashersalomon.com/)
+
+
 
 Improvements by Marc Freixes 2019:
 
