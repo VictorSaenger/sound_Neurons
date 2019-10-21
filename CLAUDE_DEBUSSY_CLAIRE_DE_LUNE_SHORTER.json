@@ -1,0 +1,20 @@
+{
+	"song": "CDL",
+	"location_marg": 0.1,
+	"axonDiam_Amin": 0.0015,
+	"axonDiam_Amax": 0.3,
+	"axonDiam_min": 3,
+	"axonDiam_max": 12,
+	"neuronSpread": 2,
+	"neuronReach": 0.02,
+        "neuronBump": 0.1,
+	"frameRate_Amin": 0.0015,
+	"frameRate_Amax": 0.35,
+	"frameRate_min": 10,
+	"frameRate_max": 144,
+	"chord_pretime": 5,
+	"beat_pretime": 2,
+	"saturation": 80,
+	"brigthness": 100
+
+}
