@@ -1,4 +1,4 @@
-//Sound_Neurons.
+//Sound_Neurons by Victor Saenger.
 
 // Creative coding project that draws a neuron forest based on input music.
 // Neuron growth and branching is based on the amplitude and music tone.
